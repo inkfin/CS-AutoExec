@@ -172,3 +172,21 @@ $RECYCLE.BIN/
 
 pkg/
 src/
+
+*.vpk
+*.vdf
+*.gi
+*.ini
+*.inf
+**backup**
+panorama
+replays
+resource
+
+## default configs
+*.vcfg
+**default**.cfg
+**gamestate**.cfg
+**gamemode**.cfg
+server.cfg
+perftest.cfg
