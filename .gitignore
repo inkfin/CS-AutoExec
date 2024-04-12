@@ -190,3 +190,5 @@ resource
 **gamemode**.cfg
 server.cfg
 perftest.cfg
+
+cfg/Others
