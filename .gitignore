@@ -191,8 +191,9 @@ resource
 server.cfg
 perftest.cfg
 
+*.json
+
 cfg/Others
 # 5e
-cfg/f5eautoexec.cfg
-cfg/f5enostickjump.cfg
 **/5eplay/
+cfg/*5[Ee]*.cfg
