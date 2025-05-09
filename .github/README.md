@@ -15,9 +15,6 @@
     <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this Counter-Strike 2 autoexec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
-         alt="GitHub tweet">
 </p>
       
 <p align="center">
@@ -28,9 +25,9 @@
   <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#deprecated">Deprecated</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
+  <a href="#sponsor">Sponsor</a> •
   <a href="#license">License</a>
 </p>
 
@@ -121,10 +118,6 @@ Do you **need some help**? Check out the _articles_ on the [wiki](https://github
 ## Contributing
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
-        
-## Deprecated
-
-Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
 
 ## Credits
 
@@ -135,6 +128,10 @@ Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/
 ## Support
 
 Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
+
+## Sponsor
+
+[![Donation](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%5E%5E-green?style=flat&logo=undertale&logoColor=green&color=white)](https://github.com/sponsors/armync)
 
 ## License
 
