@@ -197,3 +197,6 @@ cfg/Others
 # 5e
 **/5eplay/
 cfg/*5[Ee]*.cfg
+
+# demo
+*.dem
