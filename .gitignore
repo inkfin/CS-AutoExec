@@ -182,6 +182,11 @@ src/
 panorama
 replays
 resource
+particles/
+materials/
+characters/
+soundevents/
+sounds/
 
 ## default configs
 *.vcfg
